@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    background-color: #151515;
+}
+
+/* Dobra 1 */
+
+.dobra1{
+    width:900px;
+   margin: 0px auto;
+
+}
+
+#Forms{
+    color: white;
+  padding: 2em;
+  position: relative;
+}
+
+#Forms input {
+    width: 100%;
+}
+
+#FormHeader{
+    width: 40%;
+}
+
+#FormImg{
+    width: 40%;
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+/* Dobra 2*/
+
+.Banner{
+    width:900px;
+    margin: 0px auto;
+    color: #151515;
+    background-color: white;
+}
+
+
+/* Dobra 3 */
+#Modules{
+    width:900px;
+    margin: 0px auto;
+    color: white;
+}
+
+/* Dobra 4 */
+
+#Beneficios{
+    width:900px;
+    margin: 0px auto;
+    color: white;
+}
+
+/* Dobra 5 */
+
+#footer{
+    width:900px;
+    margin: 0px auto;
+    color: #151515;
+    background-color: white;
+}
+
+
+
+
