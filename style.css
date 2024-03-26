@@ -16,7 +16,7 @@ body{
   position: relative;
   display: flex;
   justify-content: space-between;
-  height: 688px;
+  height: 771px;
 }
 
 #Forms input {
@@ -25,10 +25,13 @@ body{
 
 #FormHeader{
     width: 40%;
+    margin: 100px 0px;
+
 }
 
 #FormHeader h1{
     font-size: 40px;
+    margin-top: 0px;
 }
 
 #FormHeader h2{
@@ -38,6 +41,7 @@ font-size: 16px;
 #FormImg img{
     width: 395px;
     height: 688px;
+    margin-top: 83px;
 }
 
 #formid input{
@@ -57,11 +61,21 @@ font-size: 16px;
 
 /* Dobra 2*/
 
-.Banner{
-    width:900px;
-    margin: 0px auto;
+#Banner{
+   height: 660px;
     color: #151515;
     background-color: white;
+}
+
+#BannerConteudo{
+    width: 900px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+#BannerImg{
+    
 }
 
 
